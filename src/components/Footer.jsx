@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <div className='footer'>
 
-        <h3>SB Recipess...</h3>
+        <h3>NM App</h3>
 
         <div className="footer-options">
           <ul>
@@ -39,5 +39,6 @@ const Footer = () => {
     </div>
   )
 }
+
 
 export default Footer
