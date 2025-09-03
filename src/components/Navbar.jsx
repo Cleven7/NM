@@ -27,7 +27,7 @@ const Navbar = () => {
 
   return (
     <div className='Navbar'>
-        <h3  onClick={()=>navigate('/')}>SB Recipess...</h3>
+        <h3  onClick={()=>navigate('/')}>NM APP</h3>
         <div className='nav-options'>
           <ul>
               <li onClick={()=>navigate('/')}>Home</li>
@@ -50,5 +50,6 @@ const Navbar = () => {
     </div>
   )
 }
+
 
 export default Navbar
