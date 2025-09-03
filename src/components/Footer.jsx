@@ -35,10 +35,11 @@ const Footer = () => {
         </div>
 
         <hr />
-        <p>SB Recipiess - &copy; 2023 - All Rights Reserved</p>
+        <p>NM APP - &copy; 2025 - All Rights Reserved</p>
     </div>
   )
 }
 
 
 export default Footer
+
