@@ -1,74 +1,77 @@
-🍳 CookBook: Your Virtual Kitchen Assistant
+# 🍳 CookBook: Your Virtual Kitchen Assistant
 
-CookBook is a smart recipe and meal-planning application designed to help users explore, manage, and prepare delicious dishes with ease. It acts as a virtual kitchen assistant, providing personalized recipe suggestions, ingredient management, and cooking guidance.
+## 📌 Project Overview
+CookBook is a **virtual kitchen assistant** that helps users discover recipes, plan meals, and manage ingredients with ease.  
+It combines **smart search, meal planning, and a shopping assistant** to make cooking simple and fun.
 
-🚀 Features
+---
 
-📖 Recipe Library – Browse through a variety of recipes with step-by-step instructions.
+## 🚀 Features
+- 📖 Recipe Library – Browse and explore a wide range of recipes.
+- 🍽️ Meal Planner – Organize meals for the week.
+- 🛒 Shopping List Generator – Automatically create shopping lists.
+- 🎤 Voice Assistant – Hands-free cooking with step-by-step guidance.
+- 🔍 Smart Search – Search by ingredients, cuisine, or dietary preferences.
 
-🍽️ Meal Planner – Plan weekly meals and organize ingredients.
+---
 
-🛒 Shopping List Generator – Auto-generate shopping lists from selected recipes.
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript *(or React if used)*
+- **Backend:** Python (Flask/Django) / Node.js (Express)
+- **Database:** SQLite / MySQL
+- **APIs:** Recipe API *(if integrated)*
 
-🎤 Voice Assistant – Hands-free cooking support with voice instructions.
+---
 
-🔍 Smart Search – Find recipes based on ingredients, cuisine, or dietary preferences.
-
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript (or React if you used it)
-
-Backend: Python (Flask/Django) or Node.js (Express)
-
-Database: SQLite / MySQL
-
-APIs: Recipe/ingredient APIs (if integrated)
-
-📂 Project Structure
+## 📂 Project Structure
+```
 CookBook/
 │── frontend/        # UI components, pages
-│── backend/         # API, business logic
-│── database/        # DB schema, migrations
+│── backend/         # API and logic
+│── database/        # DB schema
 │── assets/          # Images, icons
 │── README.md        # Documentation
+```
 
-⚙️ Installation & Setup
+---
 
-Clone the repo:
+## ⚙️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/CookBook.git
+   cd CookBook
+   ```
+2. Install dependencies:
+   ```bash
+   npm install            # For Node.js
+   pip install -r requirements.txt   # For Python
+   ```
+3. Run the project:
+   ```bash
+   npm start
+   # or
+   python app.py
+   ```
+4. Open in browser:
+   ```
+   http://localhost:3000
+   ```
 
-git clone https://github.com/your-username/CookBook.git
-cd CookBook
+---
 
+## 🎯 Future Enhancements
+- AI-powered recipe recommendations.
+- Integration with IoT kitchen devices.
+- Nutritional analysis of meals.
+- Multi-language support.
 
-Install dependencies:
+---
 
-npm install      # For Node.js projects
-pip install -r requirements.txt   # For Python projects
+## 👩‍💻 Team
+- **Cleven Michael Raj J** – Team Lead  
+- *(Add teammates if any)*
 
+---
 
-Run the server:
-
-npm start  
-# or  
-python app.py
-
-
-Open in browser:
-
-http://localhost:3000
-
-🎯 Future Enhancements
-
-AI-powered recipe recommendations.
-
-Integration with IoT kitchen devices.
-
-Multi-language support.
-
-Nutritional analysis of meals.
-
-👩‍💻 Team
-
-Cleven Michael Raj J – Team Lead
-
-[Add your teammates here if any]
+## 📜 License
+This project is for **academic purposes** (NM Project).
