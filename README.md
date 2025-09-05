@@ -16,10 +16,7 @@ It combines **smart search, meal planning, and a shopping assistant** to make co
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript *(or React if used)*
-- **Backend:** Python (Flask/Django) / Node.js (Express)
-- **Database:** SQLite / MySQL
-- **APIs:** Recipe API *(if integrated)*
+- **Frontend:** HTML, CSS, JavaScript, ReactJS
 
 ---
 
@@ -27,8 +24,6 @@ It combines **smart search, meal planning, and a shopping assistant** to make co
 ```
 CookBook/
 │── frontend/        # UI components, pages
-│── backend/         # API and logic
-│── database/        # DB schema
 │── assets/          # Images, icons
 │── README.md        # Documentation
 ```
@@ -38,19 +33,16 @@ CookBook/
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CookBook.git
+   git clone https://github.com/Cleven7/NM.git
    cd CookBook
    ```
 2. Install dependencies:
    ```bash
    npm install            # For Node.js
-   pip install -r requirements.txt   # For Python
    ```
 3. Run the project:
    ```bash
    npm start
-   # or
-   python app.py
    ```
 4. Open in browser:
    ```
