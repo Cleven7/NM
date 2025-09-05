@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+🍳 CookBook: Your Virtual Kitchen Assistant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CookBook is a smart recipe and meal-planning application designed to help users explore, manage, and prepare delicious dishes with ease. It acts as a virtual kitchen assistant, providing personalized recipe suggestions, ingredient management, and cooking guidance.
 
-## Available Scripts
+🚀 Features
 
-In the project directory, you can run:
+📖 Recipe Library – Browse through a variety of recipes with step-by-step instructions.
 
-### `npm start`
+🍽️ Meal Planner – Plan weekly meals and organize ingredients.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🛒 Shopping List Generator – Auto-generate shopping lists from selected recipes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🎤 Voice Assistant – Hands-free cooking support with voice instructions.
 
-### `npm test`
+🔍 Smart Search – Find recipes based on ingredients, cuisine, or dietary preferences.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🛠️ Tech Stack
 
-### `npm run build`
+Frontend: HTML, CSS, JavaScript (or React if you used it)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Backend: Python (Flask/Django) or Node.js (Express)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Database: SQLite / MySQL
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+APIs: Recipe/ingredient APIs (if integrated)
 
-### `npm run eject`
+📂 Project Structure
+CookBook/
+│── frontend/        # UI components, pages
+│── backend/         # API, business logic
+│── database/        # DB schema, migrations
+│── assets/          # Images, icons
+│── README.md        # Documentation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+⚙️ Installation & Setup
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone the repo:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+git clone https://github.com/your-username/CookBook.git
+cd CookBook
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+Install dependencies:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+npm install      # For Node.js projects
+pip install -r requirements.txt   # For Python projects
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+Run the server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+npm start  
+# or  
+python app.py
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Open in browser:
 
-### Making a Progressive Web App
+http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+🎯 Future Enhancements
 
-### Advanced Configuration
+AI-powered recipe recommendations.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Integration with IoT kitchen devices.
 
-### Deployment
+Multi-language support.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Nutritional analysis of meals.
 
-### `npm run build` fails to minify
+👩‍💻 Team
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Cleven Michael Raj J – Team Lead
+
+[Add your teammates here if any]
