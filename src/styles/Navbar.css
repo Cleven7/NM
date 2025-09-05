@@ -14,7 +14,7 @@
     padding-left: 4vw;
     font-family: 'Whisper', cursive;
     font-size: 2.3rem;
-    color: rgb(35, 209, 35);
+    color: rgb(236, 243, 236);
     cursor: pointer;
 }
 
@@ -89,5 +89,4 @@
     color: aliceblue;
     height: 4vh;
     cursor: pointer;
-
 }
