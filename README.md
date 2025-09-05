@@ -61,7 +61,10 @@ CookBook/
 
 ## 👩‍💻 Team
 - **Cleven Michael Raj J** – Team Lead  
-- *(Add teammates if any)*
+- **Abishek Sharan C**
+- **Jagat Kishore M**
+- **Joel Edwin P**
+- **Sharwana Kumar P**
 
 ---
 
